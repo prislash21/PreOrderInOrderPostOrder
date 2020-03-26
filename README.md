@@ -1,6 +1,6 @@
 # PreOrderInOrderPostOrder-Binary Tree
 
-###Steps:
+### Steps:
 
 * Users have to input data to make a binary tree.
 * System will exit from creating a binary tree when user input 0 or any negative number. 
@@ -10,7 +10,7 @@
 * System will be terminated if the user presses any other digit.
 ___
 
-###Test cases:
+### Test cases:
 	Targeted binary tree
 		       1
 		  /         \
@@ -21,14 +21,14 @@ ___
 null     5
 
 
-Input set: 
-1
-0
-2
-1
-L
-3
-1
+_Input set_: 
+* 1
+* 0
+* 2
+* 1
+* L
+* 3
+* 1
 R
 4
 2
