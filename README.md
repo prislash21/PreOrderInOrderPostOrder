@@ -15,10 +15,10 @@ ___
 		       1
 		  /         \
 		2             3
- /     \        /    \
-4      mull    null   6
-/       \
-null     5
+             /     \        /    \
+           4      mull    null   6
+           /       \
+           null     5
 
 
 _Input set_: 
@@ -29,17 +29,17 @@ _Input set_:
 * L
 * 3
 * 1
-R
-4
-2
-L
-5
-4
-R
-6
-3
-R
-0
+* R
+* 4
+* 2
+* L
+* 5
+* 4
+* R
+* 6
+* 3
+* R
+* 0
 ___
 After this input fields binary tree will be created and user will able to see the menu bar like:
 
