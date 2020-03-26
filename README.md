@@ -15,10 +15,10 @@ ___
 		       1
 		  /         \
 		2             3
-            /     \        /    \
-           4      mull    null   6
-           /       \
-           null     5
+          /     \        /    \
+          4      mull    null   6
+          /       \
+          null     5
 
 
 _Input set_: 
