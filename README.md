@@ -52,12 +52,12 @@ Press Any Digit For Exit
 ```
 
   * If user press 1 then output would be like:
-     * Output: 1 2 4 5 3 6 
+     * _Output: 1 2 4 5 3 6_ 
   * If user press 2 then the output will be like:
-    * Output: 4 5 2 1 3 6 
+    * _Output: 4 5 2 1 3 6_ 
 
   * If user press 3 then the output will be like:
-    * Output: 5 4 2 6 3 1 
+    * _Output: 5 4 2 6 3 1_ 
 
 * Worst cases:
    * System can throw an exception if the root node is not found.
