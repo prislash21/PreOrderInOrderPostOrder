@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Objects;
 import java.util.Scanner;
 
-public class Main {
+public class PreInpost {
     /**
      * This is the main method and execute when project run
      *
