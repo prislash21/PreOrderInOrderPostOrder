@@ -144,7 +144,7 @@ public class Main {
 
     /**
      * \
-     * raversing binaryTree by in order traversal
+     * reversing binaryTree by in order traversal
      *
      * @param root
      * @Author Priota Roy
@@ -162,7 +162,7 @@ public class Main {
 
 
     /**
-     * raversing binaryTree by post order traversal
+     * reversing binaryTree by post order traversal
      *
      * @param root
      * @Author Priota Roy
